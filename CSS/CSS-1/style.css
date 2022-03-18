@@ -1,0 +1,55 @@
+.navbar-item
+{
+    display:inline;
+    margin-right: 50px;
+    border: 4px dotted #5B7DB1;
+}
+.navbar-item:last-of-type
+{
+    margin-right: 0px;
+}
+.baslik
+{
+    text-align: center;
+}
+.navbar
+{
+background-color: #61A4BC;
+padding-bottom: 10px;
+padding-top:10px;
+}
+body
+{
+    font-family: 'Fredoka', sans-serif;
+    background-color: #F7E2E2;
+}
+h1
+{
+    color: #1A132F;
+}
+h2
+{
+    color: #5B7DB1;
+}
+h3
+{
+    color: #61A4BC;
+}
+
+div ul li img
+{
+    width: 30%;
+}
+
+div ul li
+{
+    margin-bottom: 20px;
+}
+ul {
+    margin: 0; /* To remove default bottom margin */ 
+    padding: 0; /* To remove default left padding */
+}
+table thead th, tr td, table
+{
+    border: 2px solid;
+}

@@ -1,0 +1,55 @@
+
+.googlelogo {
+    /* float: left; */
+    text-align: center;
+}
+
+.aramavelinkler {    
+    margin:1px 5%;
+}
+
+.arama {
+    background-color: #EEEEEE;
+    text-align: center;
+    margin-bottom: 1px;
+}
+
+.linkler {
+    display: flex;
+    text-align: center;  
+    
+}
+
+.link {
+    margin: 1px ;
+    
+    
+}
+
+.sollink {
+    background-color: #7EE5DA;
+    flex-grow: 37;
+    justify-content: center;
+    align-items: center;
+    
+    }
+
+.ortalink {
+    
+    background-color: #70CCC2;
+    font-size: small;
+    flex-grow: 19;
+    
+}
+.saglink {
+    
+    background-color: #62B3AA;
+    font-size: small;
+    flex-grow: 42;
+       
+}
+
+::placeholder {
+    color: black;
+    opacity: 1;
+}
